@@ -1,0 +1,3 @@
+streaming/StreamingConnector.class
+streaming/TelemetryInfo.class
+streaming/TelemetryInfoDeserializationSchema.class
